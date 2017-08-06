@@ -1,0 +1,3 @@
+[submodule "python/grokking"]
+	path = python/grokking
+	url = https://github.com/alexander-puzikov/grokking.git
